@@ -1,2 +1,0 @@
-# VenetaRestauri
-WP-VenetaRestauri
